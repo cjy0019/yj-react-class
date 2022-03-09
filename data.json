@@ -1,0 +1,20 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "todo": "react"
+    },
+    {
+      "id": 2,
+      "todo": "typescript"
+    },
+    {
+      "id": 3,
+      "todo": "aws"
+    },
+    {
+      "id": 4,
+      "todo": "데이터베이스"
+    }
+  ]
+}
